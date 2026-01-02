@@ -4,7 +4,6 @@ A fine-tuned **BERT-based multi-class classification model** for detecting menta
 
 This project demonstrates how transformer-based language models can be applied to mental health signal recognition while maintaining transparency through confidence analysis, ROC-AUC metrics, and local interpretability techniques.
 
----
 
 ## 🔍 Project Overview
 
@@ -16,7 +15,6 @@ Key goals:
 - Careful **confidence and error analysis**
 - Emphasis on **interpretability** rather than black-box prediction
 
----
 
 ## 🧠 Model & Methodology
 
@@ -31,7 +29,6 @@ Key goals:
 
 The evaluation highlights that most incorrect predictions occur at **moderate confidence levels**, suggesting the model appropriately expresses uncertainty rather than failing silently.
 
----
 
 ## 📂 Repository Structure
 
