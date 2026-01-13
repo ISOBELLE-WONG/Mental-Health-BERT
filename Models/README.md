@@ -80,7 +80,7 @@ Refer to the **Provenance** tab for complete details.
 
 ---
 
-## ⚙️ Training Configuration
+## Training Configuration
 - **Epochs:** 5
 - **Batch Size:** 16 (training), 32 (validation)
 - **Learning Rate:** 2e-5
@@ -92,7 +92,7 @@ Refer to the **Provenance** tab for complete details.
 
 ---
 
-## 🛑 Limitations & Warnings
+## Limitations & Warnings
 - This model is **not** a clinical tool.
 - Predictions may inherit biases from Reddit-based training data.
 - Not suitable for crisis assessment or emergency intervention.
@@ -100,31 +100,20 @@ Refer to the **Provenance** tab for complete details.
 
 ---
 
-## 🔐 Ethical & Responsible Use
+## Ethical & Responsible Use
 - All training data is public and anonymized.
 - Use responsibly in research settings.
 - Avoid real-world medical or psychological decision-making based on model predictions.
 
 ---
 
-## 👤 Author
-**Priyangshu Mukherjee**  
-BTech CSE, RV University  
-Email: priyangshumukherjeebtech24@rvu.edu.in
+## Author
+**Isobelle Wang**  
+University of Waterloo
+Email: y3998wan@uwaterloo.ca
 
 ---
 
-## 📎 Citation
-```bibtex
-@software{mental_health_classifier_2025,
-  author = {Mukherjee, Priyangshu},
-  title = {Mental Health Text Classifier (MentalBERT Fine-tuned)},
-  year = {2025},
-  note = {Fine-tuned model for multi-class mental health text classification}
-}
-```
-
----
 
 ## 📄 License
 The model is released under the **Apache 2.0 License**. The base model and source datasets retain their respective licenses.
